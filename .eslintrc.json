@@ -1,0 +1,4 @@
+// nextをリスト型にして追加
+{
+  "extends": ["next", "next/core-web-vitals"]
+}
